@@ -34,8 +34,6 @@ This will start the app in development mode and open it in your browser at `http
 * Make sure **Node.js** and **npm** are installed on your machine.
 * If you face any issues, delete `node_modules` and `package-lock.json`, then run `npm install` again.
 
-Let me know if you want to add steps for backend or deployment!
-
 
 
 
